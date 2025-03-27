@@ -6,7 +6,7 @@ This directory contains an implementation of the Transformer model from the pape
 
 ## Download Pre-trained Weights  
 Download the pre-trained model weights from the link below:  
-[Download Weights](#)  <!-- Replace with actual link -->
+[Download Weights](https://drive.google.com/file/d/1-9gAZ-8a2k7izXqr3rABKQ5lbtHBfJb_/view?usp=sharing)  <!-- Replace with actual link -->
 
 Move the weights file to the repository folder and rename the file with the following name : `model_weight.pt`.   
 
