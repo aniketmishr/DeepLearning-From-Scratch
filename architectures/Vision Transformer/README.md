@@ -1,0 +1,1 @@
+Vision Transformer Implementation based on the paper [An Image is worth 16 x 16 words](https://arxiv.org/abs/2010.11929) 
