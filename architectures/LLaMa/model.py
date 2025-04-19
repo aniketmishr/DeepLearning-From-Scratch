@@ -120,7 +120,7 @@ class SelfAttention(nn.Module):
 
 ## Apply roatary positional embedding to Q and K 
         xq = apply_rotary_embeddings(xq, freqs_complex,device=x.device) # Shape remains same
-                xk = apply_rotary_embeddings(xk, freqs_complex, device=x.device) # Shape remains same
+        xk = apply_rotary_embeddings(xk, freqs_complex, device=x.device) # Shape remains same
 
         ## replace the entry in cache 
         self.cache_k[:batch_size,start_pos: start_pos+seq_len]  = xk
