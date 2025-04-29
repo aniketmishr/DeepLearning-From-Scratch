@@ -1,0 +1,1 @@
+The Repo contains the implementation of PaliGemma from scratch. 
