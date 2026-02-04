@@ -1,6 +1,6 @@
 # CLIP Model
 
-This repository contains an implementation of the CLIP model.
+This repository contains an implementation of the CLIP model. [Learning Transferable Visual Models From Natural Language Supervision](https://arxiv.org/abs/2103.00020) 
 
 ## Files
 - `clip.py`: Contains the CLIP model architecture.

@@ -1,1 +1,1 @@
-The Repo contains the implementation of PaliGemma from scratch. 
+The folder contains the implementation of PaliGemma from scratch. [PaliGemma: A versatile 3B VLM for transfer](https://arxiv.org/abs/2407.07726) 

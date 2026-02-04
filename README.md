@@ -4,17 +4,7 @@ This repository contains implementations of famous deep learning architectures b
 
 ## How to Use This Repo
 - Each deep learning model is inside the `architectures/` folder with its corresponding code and documentation.
-- The `topics/` folder covers theoretical explanations and implementations of key deep learning concepts.
 - If you are looking for practical implementations, check the `notebooks/` directory.
-- Reusable functions like activation functions and optimizers are in `utils/`.
-
-
-## Implemented Architectures
-
-1. Transformer
-
-## Implemented Topics
-
 
 
 ## Getting Started

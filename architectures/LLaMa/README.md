@@ -1,1 +1,1 @@
-The folder contains the Implementation of LLaMa 
+The folder contains the Implementation of [LLaMa](https://arxiv.org/abs/2302.13971)  Research Paper
